@@ -1,0 +1,12 @@
+services:
+  dashboard:
+    build: .
+    container_name: streamlit-dashboard
+    ports:
+      - "8501:8501"
+    networks:
+      - iotnet
+
+networks:
+  iotnet:
+    external: true
