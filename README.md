@@ -37,7 +37,7 @@ ImportadorDadosEDashboard/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Felipe-Serna/pipeline-dados-iot.git
+   git clone https://github.com/Felipe-Serna/ImportadorDadosEDashboard.git
    cd pipeline-dados-iot
    ```
 
